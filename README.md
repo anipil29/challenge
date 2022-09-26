@@ -1,2 +1,3 @@
+REMOTE
 # challenge
 Hello world!
