@@ -1,4 +1,4 @@
-LOCAL
+LOCAl
 
 # challenge
 
